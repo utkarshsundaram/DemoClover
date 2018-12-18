@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "674383556134",
+    "firebase_url": "https://maxlifepoc.firebaseio.com",
+    "project_id": "maxlifepoc",
+    "storage_bucket": "maxlifepoc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674383556134:android:3d5e6defec824a1d",
+        "android_client_info": {
+          "package_name": "maxlife.maxlifepoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674383556134-q02qen2o6f6iq4ur0mvhuc5flm31l3c7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4XX0LttJPIFdP59XWlZ1qSkS8v8y2ifk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

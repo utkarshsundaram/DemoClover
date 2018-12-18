@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MaxLifeTextView">
+        <attr name="customTypeFace" format="enum">
+            <enum name="Montserrat-Black" value="0" />
+            <enum name="Montserrat-BlackItalic" value="1" />
+            <enum name="Montserrat_Bold" value="2" />
+            <enum name="Montserrat_Italic" value="3" />
+        </attr>
+    </declare-styleable>
+</resources>

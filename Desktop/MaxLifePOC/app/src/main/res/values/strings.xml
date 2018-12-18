@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MaxLifePOC</string>
+    <string name="login">Login</string>
+    <string name="mobile_no">Mobile no</string>
+    <string name="yes_i_want_a_free_caredose">Yes,I want a Free CAREDOSE</string>
+    <string name="what_is_caredose">What is CareDose ?</string>
+    <string name="submit">Submit</string>
+    <string name="upload_prescriptaion">Upload prescriptaion</string>
+    <string name="place_subscription">Please place your prescription in the marked area Click the take picture button   to click from the camera or browse to uplaod from tablet</string>
+    <string name="please_upload_your_prescription">Please upload your prescription</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="browse">Browse</string>
+</resources>
